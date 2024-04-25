@@ -12,13 +12,3 @@
 ```sh
     make && ./tetris
 ```
-
-## Install
-
-```sh
-make install 
-# install location
-$ which tetris
-/usr/local/bin/tetris
-```
-*now u can run it from any places*
