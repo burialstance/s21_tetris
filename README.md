@@ -1,7 +1,8 @@
-![default theme](.github/images/theme_default.jpg)
-![dark theme](.github/images/theme_dark.jpg)
-![light theme](.github/images/theme_light.jpg)
-![demo](.github/images/demo.jpg)
+![default theme](.github/images/theme_default.png)
+![dark theme](.github/images/theme_dark.png)
+![light theme](.github/images/theme_light.png)
+![demo](.github/images/demo.png)
+![terminated](.github/images/terminated.png)
 
 
 ## Build
