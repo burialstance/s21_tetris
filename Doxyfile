@@ -1,0 +1,7 @@
+PROJECT_NAME = "BrickGame aka Tetris"
+PROJECT_NUMBER = 1.0
+PROJECT_BRIEF   = "Yet another Tetris"
+OUTPUT_DIRECTORY = docs
+GENERATE_LATEX = NO
+INPUT = src
+RECURSIVE = YES
